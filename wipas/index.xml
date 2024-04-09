@@ -2,10 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wipas on Mano svetainiuke</title>
+    
+    
+    
     <link>http://localhost:1313//wipas/</link>
     <description>Recent content in Wipas on Mano svetainiuke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313//wipas/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://localhost:1313//wipas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
