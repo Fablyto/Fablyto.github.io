@@ -5,21 +5,41 @@
     
     
     
-    <link>https://Fablyto.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Mano tinklapis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Apr 2024 21:24:55 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 21:33:54 +0300</lastBuildDate>
     
-	<atom:link href="https://Fablyto.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Klase</title>
+      <link>http://localhost:1313/next/class/</link>
+      <pubDate>Tue, 09 Apr 2024 21:33:54 +0300</pubDate>
+      
+      <guid>http://localhost:1313/next/class/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>BACKROUND</title>
-      <link>https://Fablyto.github.io/posts/backround/</link>
+      <link>http://localhost:1313/posts/backround/</link>
       <pubDate>Tue, 09 Apr 2024 21:24:55 +0300</pubDate>
       
-      <guid>https://Fablyto.github.io/posts/backround/</guid>
+      <guid>http://localhost:1313/posts/backround/</guid>
       <description>
         
           
