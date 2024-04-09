@@ -2,23 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313//kitaip/meniu/</loc>
-    <lastmod>1970-01-01T21:17:00+02:00</lastmod>
+    <loc>https://Fablyto.github.io/posts/backround/</loc>
+    <lastmod>2024-04-09T21:24:55+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313//kitaip/</loc>
-    <lastmod>1970-01-01T21:17:00+02:00</lastmod>
+    <loc>https://Fablyto.github.io/</loc>
+    <lastmod>2024-04-09T21:24:55+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313//</loc>
-    <lastmod>1970-01-01T21:17:00+02:00</lastmod>
+    <loc>https://Fablyto.github.io/posts/</loc>
+    <lastmod>2024-04-09T21:24:55+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313//git-projekt/</loc>
+    <loc>https://Fablyto.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313//posts/feedas/</loc>
-  </url><url>
-    <loc>http://localhost:1313//posts/</loc>
-  </url><url>
-    <loc>http://localhost:1313//webas/</loc>
-  </url><url>
-    <loc>http://localhost:1313//wipas/</loc>
+    <loc>https://Fablyto.github.io/tags/</loc>
   </url>
 </urlset>
