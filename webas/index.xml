@@ -2,16 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webas on Mano svetainiuke</title>
-    
-    
-    
-    <link>https://Fablyto.github.io//webas/</link>
+    <link>http://localhost:1313//webas/</link>
     <description>Recent content in Webas on Mano svetainiuke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://Fablyto.github.io//webas/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313//webas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
