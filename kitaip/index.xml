@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kitaips on Mano svetainiuke</title>
+    <link>http://localhost:1313//kitaip/</link>
+    <description>Recent content in Kitaips on Mano svetainiuke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 1970 21:17:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313//kitaip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EUROJACKPOT</title>
+      <link>http://localhost:1313//kitaip/meniu/</link>
+      <pubDate>Thu, 01 Jan 1970 21:17:00 +0200</pubDate>
+      <guid>http://localhost:1313//kitaip/meniu/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
