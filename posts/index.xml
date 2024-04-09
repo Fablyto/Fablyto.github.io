@@ -2,17 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mano svetainiuke</title>
-    <link>http://localhost:1313//posts/</link>
+    
+    
+    
+    <link>https://Fablyto.github.io//posts/</link>
     <description>Recent content in Posts on Mano svetainiuke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313//posts/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://Fablyto.github.io//posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>nebefeedas</title>
-      <link>http://localhost:1313//posts/feedas/</link>
+      <link>https://Fablyto.github.io//posts/feedas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313//posts/feedas/</guid>
-      <description>Pora sakiniu galiu parasyti as pora sakiniu galima teigti kad galiu parasyti pora sakiniu arba uzteks ir tiek hehe.</description>
+      
+      <guid>https://Fablyto.github.io//posts/feedas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Pora sakiniu galiu parasyti as pora sakiniu galima teigti kad galiu parasyti pora sakiniu arba uzteks ir tiek hehe.
+          
+        
+        </description>
     </item>
+    
   </channel>
 </rss>

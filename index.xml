@@ -2,25 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mano svetainiuke</title>
-    <link>http://localhost:1313//</link>
+    
+    
+    
+    <link>https://Fablyto.github.io//</link>
     <description>Recent content on Mano svetainiuke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 1970 21:17:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313//index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://Fablyto.github.io//index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>EUROJACKPOT</title>
-      <link>http://localhost:1313//kitaip/meniu/</link>
+      <link>https://Fablyto.github.io//kitaip/meniu/</link>
       <pubDate>Thu, 01 Jan 1970 21:17:00 +0200</pubDate>
-      <guid>http://localhost:1313//kitaip/meniu/</guid>
-      <description></description>
+      
+      <guid>https://Fablyto.github.io//kitaip/meniu/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
+    
     <item>
       <title>nebefeedas</title>
-      <link>http://localhost:1313//posts/feedas/</link>
+      <link>https://Fablyto.github.io//posts/feedas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313//posts/feedas/</guid>
-      <description>Pora sakiniu galiu parasyti as pora sakiniu galima teigti kad galiu parasyti pora sakiniu arba uzteks ir tiek hehe.</description>
+      
+      <guid>https://Fablyto.github.io//posts/feedas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Pora sakiniu galiu parasyti as pora sakiniu galima teigti kad galiu parasyti pora sakiniu arba uzteks ir tiek hehe.
+          
+        
+        </description>
     </item>
+    
   </channel>
 </rss>
